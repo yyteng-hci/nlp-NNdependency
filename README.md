@@ -6,7 +6,7 @@ The project include the following parts:
 - greedy parsing algorithm
 
 ## Usage
-Run the Jupyter Notebook run.ipynb in Google Colab. Outputs are stored in the notebook. 
+Run the Jupyter Notebook run.ipynb in Google Colab. (Outputs are shown in the notebook.)
 
 ## Data
 The data come from a standard split of the WSJ part of the Penn Treebank. Data structure to represent, read, and write dependency trees is in the CoNLL-X format. 
